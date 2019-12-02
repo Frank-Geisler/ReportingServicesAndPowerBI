@@ -47,3 +47,5 @@ choco install azure-data-studio -y
 choco install visualstudio2019enterprise -y
 choco install zoomit -y
 choco install gitkraken -y
+choco install git -y
+choco install vscode-gitlens -y
