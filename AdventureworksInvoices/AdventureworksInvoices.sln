@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "AdventureworksInvoices", "AdventureworksInvoices\AdventureworksInvoices.rptproj", "{F7BDF02D-632A-4738-A377-08E31CC50DD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7BDF02D-632A-4738-A377-08E31CC50DD2}.Debug|Default.ActiveCfg = Debug
+		{F7BDF02D-632A-4738-A377-08E31CC50DD2}.Debug|Default.Build.0 = Debug
+		{F7BDF02D-632A-4738-A377-08E31CC50DD2}.Debug|Default.Deploy.0 = Debug
+		{F7BDF02D-632A-4738-A377-08E31CC50DD2}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{F7BDF02D-632A-4738-A377-08E31CC50DD2}.DebugLocal|Default.Build.0 = DebugLocal
+		{F7BDF02D-632A-4738-A377-08E31CC50DD2}.Release|Default.ActiveCfg = Release
+		{F7BDF02D-632A-4738-A377-08E31CC50DD2}.Release|Default.Build.0 = Release
+		{F7BDF02D-632A-4738-A377-08E31CC50DD2}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FAE4900-10D0-4E74-85DF-8FA587415072}
+	EndGlobalSection
+EndGlobal
