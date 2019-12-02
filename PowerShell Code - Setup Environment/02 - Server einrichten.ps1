@@ -15,6 +15,7 @@
 #------------------------------------------------------------------------------
 #	Geschrieben von 
 #       Frank Geisler, GDS Business Intelligence GmbH
+#       Tillmann Eitelberg, oh22information services GmbH 
 #
 #   Dieses Script ist nur zu Lehr- bzw. Lernzwecken gedacht
 #
